@@ -1,6 +1,0 @@
-{
-  "name": "sendgrid-bequesta-proxy",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Reverse proxy for SendGrid Link Branding to enable SSL on url3059.bequesta.ca"
-}
